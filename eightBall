@@ -27,6 +27,7 @@ switch(randomNumber){
   break;
   case 8 : eightBall = 'Signs point to yes';
   break;
+  default : eightBall = 'Try again';
 }
 
 console.log(eightBall);
